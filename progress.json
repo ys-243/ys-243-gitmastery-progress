@@ -77,5 +77,15 @@
       "Great work with using git remote to add an upstream remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "glossary-branch-pull",
+    "started_at": 1787885919.964798,
+    "completed_at": 1787885923.009265,
+    "comments": [
+      "New commit in the remote ABC branch is not pulled to the local ABC branch.",
+      "New commit in the remote DEF branch is not pulled to the local DEF branch."
+    ],
+    "status": "Incomplete"
   }
 ]
